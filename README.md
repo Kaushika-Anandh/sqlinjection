@@ -1,5 +1,31 @@
-# sqlinjection
-Exploiting SQL Injection vulnerability
+Exp.No : 08
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 23-04-2024
+<br>
+# Exploiting SQL Injection vulnerability
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
